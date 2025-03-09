@@ -1,2 +1,2 @@
 # nodnsleak
-一个防止Clash ip泄露的测试项目
+一个防止 ip泄露的测试项目
